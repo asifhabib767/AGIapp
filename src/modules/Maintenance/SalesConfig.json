@@ -1,0 +1,79 @@
+{
+  "api_signup": "http://crm.akij.net/api/contacts/register",
+  "api_signin": "http://api1.akij.net:8053/api/ADAuthorization/ADAuthorization",
+  "api_employee_profile": "http://api1.akij.net:8055/api/EmployeeProfile/GetEmployeeJobStationsByQuery",
+
+  "api_target_data": "http://api1.akij.net:8055/api/APIForACCLForeCastAreaWise/GetAPIForACCLForeCastAreaWises",
+
+  "reset_password": "http://crm.akij.net/api/contacts/reset-password",
+  "request_password": "http://crm.akij.net/api/contacts/request-password",
+
+  "api_get_user": "http://crm.akij.net/api/contacts/get-user",
+
+  "api_shipping_points": "http://api1.akij.net:8055/api/ShippingPoint/GetShippingPointsByQuery?query=intUnitID%3D4",
+  "api_sales_offices": "http://api1.akij.net:8055/api/SalesOffice/GetSalesOfficesByQuery",
+  "api_sales_types": "http://api1.akij.net:8055/api/ViewForSalesType/GetViewForSalesTypeByQuery?query=IntUnitId%3D4",
+  "api_customer_types": "http://api1.akij.net:8055/api/SalesOfficeCusType/GetFGItemListsByQuery",
+  "api_sales_customer": "http://api1.akij.net:8055/api/ViewForSalesType/GetViewForSalesTypeByQuery",
+  "api_sales_order_list": "http://api1.akij.net:8055/api/ViewForSalesType/GetViewForSalesTypeByQuery",
+  "api_sales_order_by_email": "http://api1.akij.net:8055/api/SalesOrderVsEmployee/GetSalesOrderVsEmployee",
+  "api_sales_order_details": "http://api1.akij.net:8055/api/SalesOrderDetails/GetSalesOrderDetailsByQuery?query",
+  "api_sales_order_create": "http://api1.akij.net:8054/api/SalesOrder/SalesOrderEntry",
+
+  "api_retailer_balance": "",
+
+  "api_distributor_balance": "http://api1.akij.net:8055/api/GetDisPointInfoForSalesOrder/GetDisPointInfoForSalesOrders",
+  "api_delivery_points": "http://api1.akij.net:8055/api/ViewForDeliveryPointList/GetViewForDeliveryPointListByQuery",
+  "api_get_customer": "http://api1.akij.net:8055/api/Customers/GetCustomersByQuery",
+
+  "api_get_distributor_list": "http://api1.akij.net:8055/api/Customers/GetCustomersByQuery",
+  "api_get_distributor_new_list": "http://api1.akij.net:8055/api/Customers/GetCustomersByTSO",
+  "api_get_customer_type": "http://api1.akij.net:8055/api/CustomerType/GetCustomerTypesByQuery",
+  "api_get_distributor": "http://api1.akij.net:8055/api/DisPoint/GetDisPointsByQuery?query=IntUnitId%3D4",
+  "api_get_distributor_details": "http://api1.akij.net:8055/api/GetDisPointInfoForSalesOrder/GetDisPointInfoForSalesOrders",
+  "api_retailers": "http://api1.akij.net:8055/api/SetupVsshop/GetDistributorListByQuery",
+
+  "api_products": "http://api1.akij.net:8055/api/ViewForFinisGoodsitem/GetViewForFinisGoodsitemsByQuery",
+  "api_get_product_price": "http://api1.akij.net:8055/api/FinishedGoodsItemPrice/GetItemPriceAccl",
+  "api_get_product_coa": "http://api1.akij.net:8055/api/ItemVsCOAID/GetItemVsCOAID",
+  "api_get_product_uom": "http://api1.akij.net:8055/api/UOM/GetUomsByQuery",
+
+  "api_get_token": "",
+
+  "api_representive_areas": "http://api1.akij.net:8051/api/AcclAreaManageProductService/GetAcclareaManageProductServiceByQuery?query=%20intUnitID%3D4%20",
+
+  "api_get_movement_list": "http://api1.akij.net:8055/api/HRInfoByUser/GetMovementApplicationSummaryByUser",
+  "api_get_movement_type": "http://api1.akij.net:8055/api/HRInfoByUser/GetMovementType",
+  "api_get_country_list": "http://api1.akij.net:8055/api/HRInfoByUser/GetCountryList",
+  "api_get_district_list": "http://api1.akij.net:8055/api/HRInfoByUser/GetDistrictList",
+  "api_post_movement_application": "http://api1.akij.net:8056/api/MovementApplication/MovementApplication",
+  "api_post_movement_delete": "http://api1.akij.net:8056/api/MovementApplication/MovementApplicationDelete",
+
+  "api_get_leave_list": "http://api1.akij.net:8055/api/HRInfoByUser/GetLeaveApplicationSummaryByUser",
+  "api_get_leave_type": "http://api1.akij.net:8055/api/HRInfoByUser/GetLeaveApplicationTypeByUser",
+  "api_post_leave_create": "http://api1.akij.net:8056/api/LeaveApplication/LeaveApplication",
+  "api_leave_delate": "http://api1.akij.net:8056/api/LeaveApplication/LeaveApplicationDelete",
+
+  "api_get_attendance_list": "http://api1.akij.net:8055/api/HRInfoByUser/GetAttendanceSummaryByUser",
+  "api_post_attendance": "http://api1.akij.net:8056/api/RemoteGeoPunch/RemoteGeoPunchEntry",
+  "api_get_challan_list": "http://api1.akij.net:8055/api/DOSummaryReportForAPI/GetDOSummeryReportsForAPI",
+
+  "api_get_vehicle_provider": "http://172.17.17.25:8054/api/DropDownLoadForTransportRequest/GetVehicleProviderTypeData",
+  "api_get_vehicle_type": "http://172.17.17.25:8054/api/DropDownLoadForTransportRequest/GetVehicleTypeData",
+  "api_get_vehicle_capacity": "http://172.17.17.25:8054/api/DropDownLoadForTransportRequest/GetVehicleTypeData",
+  "api_get_order_data": "http://172.17.17.25:8054/api/FieldMktTransportRequest/GetFieldMktTransportRequestData",
+  "api_post_request_entry": "http://api1.akij.net:8054/api/ShipmentRequestEntryAndUpdate/ShipmentRequestEntry",
+
+  "api_get_vehicle_Category": "http://api2.akij.net:8067/api/TransportProviderData/GetVehicleCapacity?intShipmentId=1",
+  "api_get_delivery_do": "http://api2.akij.net:8066/api/DataForPendingQntTSOBasis/GetrPendingQntTSOBasis",
+  "post_delivery_requisition": "http://api2.akij.net:8066/api/ShipmentRequestEntryAndUpdate/ShipmentRequestEntry",
+  "get_complete_req_list": "http://api2.akij.net:8066/api/DataForRequisitionNPlanning/GetDataForRequisitionNPlanning",
+  "get_requistion_summery": "http://api2.akij.net:8066/api/DataForRequisitionNPlanning/GetDataForRequisitionNPlanningInsertByTSO",
+
+  "get_customer_details": "http://iapps.akij.net/asll/public/api/v1/requisitionIssue/getCustomerLoadingProfile",
+
+  "map_radius": 30.69,
+  "app_version": "1.0.6",
+
+  "Swagger url": "http://api2.akij.net:8067/swagger/index.html"
+}

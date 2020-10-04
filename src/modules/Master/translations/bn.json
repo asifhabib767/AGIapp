@@ -1,0 +1,24 @@
+{
+    "app_name": "iApp",
+    "username": "ইউজারনেম",
+    "password": "পাসওয়ার্ড",
+    "settings": "সেটিংস",
+    "change_language": "ভাষা পরিবর্তন",
+
+    "id": "আইডি",
+    "enroll": "এনরোল",
+    "designation": "পদবী",
+    "employee": "কর্মচারী",
+    "customer": "ক্রেতা",
+    "supply": "যোগান",
+    "sales": "বিক্রয়",
+    "report": "প্রতিবেদন",
+    "Fleet": "নৌবহর",
+    "purchase": "ক্রয়",
+    "inventory": "তালিকা",
+    "promotion": "পদোন্নতি",
+    "invoice": "চালান",
+    "hr": "মানব সম্পদ",
+    "distribution": "বিতরণ",
+    "maintenance": "রক্ষণাবেক্ষণ"
+}

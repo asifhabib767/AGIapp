@@ -1,0 +1,8 @@
+{
+  "appId": "12345777",
+  "key": "sdsdsd",
+  "secret": "sdsdsdsd",
+  "cluster": "mt1",
+  "encrypted": false,
+  "restServer": "http://iapps.akij.net:6001"
+}

@@ -1,0 +1,26 @@
+{
+  "app_name": "iApp",
+  "username": "Username",
+  "password": "Password",
+  "settings": "Settings",
+  "change_language": "Change Language",
+
+  "id": "ID",
+  "enroll": "Enroll",
+  "designation": "Designation",
+  "employee": "Employee",
+  "customer": "Customer",
+  "supply": "Supply",
+  "sales": "Sales",
+  "report": "Report",
+  "purchase": "Purchase",
+  "Fleet": "Fleet",
+  "inventory": "Inventory",
+  "promotion": "Promotion",
+  "invoice": "Invoice",
+  "hr": "HR",
+  "distribution": "Distribution",
+  "maintenance": "Maintenance",
+
+  "sandQMenu": "S&Q"
+}

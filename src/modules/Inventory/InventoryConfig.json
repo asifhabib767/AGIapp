@@ -1,0 +1,9 @@
+{
+  "server_api_base_url": "http://iapps.akij.net/asll/public/api/v1",
+  "api_get_vehicle_list": "http://iapps.akij.net/api/v1/logistic/vehicle-types?intUnitId=4",
+  "api_get_drivers_data": "http://api2.akij.net:8066/api/DataForShippingPlaning/GetDriverList",
+  "api_get_trip_details_data": "http://api2.akij.net:8066/api/DataForShippingPlaning/GetShipmentPlanningData",
+  "purchase_requisition_list": "http://iapps.akij.net/asll/public/api/v1/purchaseRequisition/getPurchaseListByUnitId",
+  "store_requisition_list": "http://iapps.akij.net/asll/public/api/v1/storeRequisition/getStoreListByUnitId",
+  "wearehouse_list_by_employee_id": "http://iapps.akij.net/asll/public/api/v1/purchaseRequisition/getWearehouseListByEmployeePermissionForStore"
+}

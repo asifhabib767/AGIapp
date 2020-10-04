@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268324852143",
+    "firebase_url": "https://akij-iapp.firebaseio.com",
+    "project_id": "akij-iapp",
+    "storage_bucket": "akij-iapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268324852143:android:644a723cdb3b2fc7d11f5a",
+        "android_client_info": {
+          "package_name": "com.akij.iapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268324852143-ooluemf8247lls43dfg4m3544hhj6ros.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdVW5i1SAOAbtM1lRmUXezfLbdp8pqCMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268324852143-ooluemf8247lls43dfg4m3544hhj6ros.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+{
+  "server_api_base_url": "http://iapps.akij.net/asll/public/api/v1",
+  "api_get_department_list": "https://app1.akij.net/api/v1/hr/departments",
+  "api_post_department": "https://app1.akij.net/api/v1/hr/departments",
+  "api_edit_department": "https://app1.akij.net/api/v1/hr/departments",
+  "api_post_attendance": "http://api1.akij.net:8056/api/RemoteGeoPunch/RemoteGeoPunchEntry",
+  "api_get_attendance_list": "http://api1.akij.net:8055/api/HRInfoByUser/GetAttendanceSummaryByUser",
+  "api_get_leave_list": "http://api1.akij.net:8055/api/HRInfoByUser/GetLeaveApplicationSummaryByUser",
+  "api_get_leave_type": "http://api1.akij.net:8055/api/HRInfoByUser/GetLeaveApplicationTypeByUser",
+  "api_post_leave_create": "http://api1.akij.net:8056/api/LeaveApplication/LeaveApplication",
+  "api_leave_delate": "http://api1.akij.net:8056/api/LeaveApplication/LeaveApplicationDelete",
+  "api_get_movement_list": "http://api1.akij.net:8055/api/HRInfoByUser/GetMovementApplicationSummaryByUser",
+  "api_get_movement_type": "http://api1.akij.net:8055/api/HRInfoByUser/GetMovementType",
+  "api_get_country_list": "http://api1.akij.net:8055/api/HRInfoByUser/GetCountryList",
+  "api_get_district_list": "http://api1.akij.net:8055/api/HRInfoByUser/GetDistrictList",
+  "api_post_movement_application": "http://api1.akij.net:8056/api/MovementApplication/MovementApplication",
+  "api_post_movement_delete": "http://api1.akij.net:8056/api/MovementApplication/MovementApplicationDelete",
+}

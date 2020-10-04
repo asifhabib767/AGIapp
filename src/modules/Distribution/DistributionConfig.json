@@ -1,0 +1,15 @@
+{
+  "server_api_base_url": "http://iapps.akij.net/api/v1",
+  "api_get_vehicle_list": "http://iapps.akij.net/api/v1/logistic/vehicle-types?intUnitId=4",
+  "api_post_department": "https://app1.akij.net/api/v1/hr/departments",
+  "api_edit_department": "https://app1.akij.net/api/v1/hr/departments",
+  "api_get_vehicle_provider": "http://api1.akij.net:8054/api/DropDownLoadForTransportRequest/GetVehicleProviderTypeData",
+  "api_get_vehicle_capacity": "http://api1.akij.net:8054/api/DropDownLoadForTransportRequest/GetVehicleTypeData",
+  "api_post_shipment_data": "http://api2.akij.net:8066/api/ShipmentPlanningEntryAndUpdate/ShipmentPlanningEntry",
+  "api_get_shipment_planning_data": "http://iapps.akij.net/api/v1/shipment-planning/shipmentPlanningListByUserId",
+  "api_get_ship_point_permission_by_user": "http://api2.akij.net:8066/api/ShippingpointPermissionByUser/GetDataForShippingpointPermissionByUser",
+  "api_get_drivers_data": "http://api2.akij.net:8066/api/DataForShippingPlaning/GetDriverList",
+  "api_get_trip_details_data": "http://api2.akij.net:8066/api/DataForShippingPlaning/GetShipmentPlanningData",
+  "api_get_Supplier_list": "http://iapps.akij.net/api/v1/logistic/vehicle-types",
+  "api_get_Territory_list": "http://iapps.akij.net/api/v1/logistic/vehicle-types?intUnitId=4"
+}
